@@ -8,14 +8,6 @@
 - General: Web, App, AI, Tensorflow
 
 
-
-## 시간표
-
-- 9시 ~ 11시
-- 3시 ~ 5시
-- 19시 ~ 21시  
-
-
 ## 
 1. C언어, ALGORISM
 2. MATH
@@ -24,9 +16,18 @@
 5. General(Web, App, AI, Tensorflow)
 
 
+
+## 시간표
+
+- 9시 ~ 11시
+- 3시 ~ 5시
+- 19시 ~ 21시  
+
+
+
 ## 월,화,수,목,금,토,일
 
-*월* 
+월 
     - 주: C언어, ALGORISM
     - 부: TOEFL
 *화* 
