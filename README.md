@@ -1,4 +1,3 @@
-
 ## 과목
 1. C언어
 2. Algorism
@@ -8,7 +7,7 @@
 6. General: Web, App, AI, Tensorflow
 
 
-## 
+## Group
 - C언어, ALGORISM
 - MATH
 - TOEFL
@@ -16,18 +15,25 @@
 - General(Web, App, AI, Tensorflow)
 
 
-
 ## 시간표
 
-- 7시: ToDoList작성
+<주중>
+
+- 7시~7시30분: ToDoList작성
 - 9시 ~ 11시
-- 3시 ~ 5시
+- 15시 ~ 17시
 - 19시 ~ 21시  
-- 23시: Summary
+- 23시~23시30분: Summary
 
 
-## 요일별
+<주말>
 
+- 16시 ~ 18시
+- 21시 ~ 23시
+
+
+
+## 요일
 - 월 
     - 주: C언어, ALGORISM
     - 부: TOEFL
