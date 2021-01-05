@@ -1,19 +1,19 @@
 
 ## 과목
-- C언어
-- Algorism
-- MATH: 이산수학, 확률과통계, 선형대수
-- TOEFL
-- DB, SQL
-- General: Web, App, AI, Tensorflow
+1. C언어
+2. Algorism
+3. MATH: 이산수학, 확률과통계, 선형대수
+4. TOEFL
+5. DB, SQL
+6. General: Web, App, AI, Tensorflow
 
 
 ## 
-1. C언어, ALGORISM
-2. MATH
-3. DB, SQL
-4. TOEFL
-5. General(Web, App, AI, Tensorflow)
+- C언어, ALGORISM
+- MATH
+- DB, SQL
+- TOEFL
+- General(Web, App, AI, Tensorflow)
 
 
 
