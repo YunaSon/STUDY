@@ -1,14 +1,8 @@
 # STUDY
 
-## C언어
-
-## Algorism
-
-## MATH
-
-## TOEFL
-
-## DB, SQL
-
-## GENERAL 
-(Web, App, AI, Tensorflow)
+- C언어
+- Algorism
+- MATH: 이산수학, 확률과통계, 선형대수
+- TOEFL
+- DB, SQL
+- General: Web, App, AI, Tensorflow
