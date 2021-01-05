@@ -1,4 +1,4 @@
-# STUDY
+# Subjects
 
 - C언어
 - Algorism
