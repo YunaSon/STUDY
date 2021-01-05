@@ -11,8 +11,8 @@
 ## 
 - C언어, ALGORISM
 - MATH
-- DB, SQL
 - TOEFL
+- DB, SQL
 - General(Web, App, AI, Tensorflow)
 
 
