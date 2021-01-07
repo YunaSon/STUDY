@@ -1,7 +1,7 @@
 ## 과목
 1. C언어
 2. Algorism
-3. MATH: 이산수학, 확률과통계, 선형대수
+3. MATH
 4. TOEFL
 5. DB, SQL
 6. General: Web, App, AI, Tensorflow
